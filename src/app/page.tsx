@@ -81,7 +81,7 @@ export default function EventPage() {
                   gastronomia, o festival reúne o melhor da cultura paulistana em um só lugar.
                 </p>
                 <p className="text-gray-700 dark:text-gray-300 mt-3">
-                  Em sua 10ª edição, o festival deste ano terá como tema "São Paulo: Encontro de Culturas", destacando a
+                  Em sua 10ª edição, o festival deste ano terá como tema &rdquo;São Paulo: Encontro de Culturas&rdquo;, destacando a
                   influência das diversas comunidades que formam a identidade da cidade.
                 </p>
               </AccordionContent>
